@@ -1,0 +1,24 @@
+﻿> read for more details:
+> https://github.com/microsoft/BotBuilder-Samples/blob/master/experimental/language-generation/docs/lg-file-format.md
+> https://github.com/microsoft/BotBuilder-Samples/blob/master/experimental/common-expression-language/prebuilt-functions.md
+
+# SingleLineExample
+- this is a single line example
+
+# MultiLineExample
+- ```This is a multi-line list
+    - one
+    - two
+    ```
+
+# VariationExample
+- variation 1
+- variation 2
+- variation 3
+- variation 4
+- variation 5
+- variation 6
+
+# FunctionExample
+- @{utcNow()}
+
